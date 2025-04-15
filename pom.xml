@@ -21,8 +21,8 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<log4j2.version>2.11.1</log4j2.version>
-		<feign.version>10.1.0</feign.version>
+		<log4j2.version>2.13.2</log4j2.version>
+		<feign.version>12.4</feign.version>
 		<neweggsdk.version>1.0.0</neweggsdk.version>
 	</properties>
 	<developers>
@@ -84,7 +84,7 @@
 		<dependency>
 			<groupId>commons-beanutils</groupId>
 			<artifactId>commons-beanutils</artifactId>
-			<version>1.9.3</version>
+			<version>1.9.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.persistence</groupId>
